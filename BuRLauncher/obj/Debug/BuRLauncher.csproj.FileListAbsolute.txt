@@ -50,3 +50,29 @@ C:\Users\Lubo\Documents\Visual Studio 2017\Projects\BuRLauncher\BuRLauncher\bin\
 C:\Users\Lubo\Documents\Visual Studio 2017\Projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.csprojResolveAssemblyReference.cache
 C:\Users\Lubo\Documents\Visual Studio 2017\Projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.exe
 C:\Users\Lubo\Documents\Visual Studio 2017\Projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.pdb
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\BuRLauncher.exe.config
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\BuRLauncher.exe
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\BuRLauncher.pdb
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.Security.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Owin.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.Hosting.AspNet.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.Hosting.Common.dll
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Microsoft.Owin.Security.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.Hosting.AspNet.xml
+C:\projects\BuRLauncher\BuRLauncher\bin\Debug\SignalR.Hosting.Common.xml
+C:\projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.csprojResolveAssemblyReference.cache
+C:\projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.exe
+C:\projects\BuRLauncher\BuRLauncher\obj\Debug\BuRLauncher.pdb
