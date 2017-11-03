@@ -5,6 +5,7 @@ using System.Net.Sockets;
 using System.Diagnostics;
 //using OPCAutomation;
 
+
 class Program
 {
     static void Main(string[] args)
@@ -12,16 +13,16 @@ class Program
 
         // Create UDP client
         int receiverPort = 11000;
-        int batPort = 11001;
+
         try
         {
             UdpClient receiver = new UdpClient(receiverPort);
-            UdpClient bat = new UdpClient(batPort);
+  
             receiver.BeginReceive(DataReceived, receiver);
-            bat.BeginReceive(DataReceived, bat);
+
             // Display some information
             Console.WriteLine("Starting Upd receiving on port: " + receiverPort + Environment.NewLine);
-            Console.WriteLine("Starting Upd receiving on port: " + batPort + Environment.NewLine);
+
             Console.WriteLine("Press any key to quit.");
             Console.WriteLine("-------------------------------\n");
         }
@@ -30,10 +31,7 @@ class Program
             Console.WriteLine("Error:" + e.ToString() + "\n");
         }
         Console.ReadKey();
-        //try
-        // {
-        //    OPCServer m_OPCServer = new OPCServer();
-        // }
+
 
     }
 

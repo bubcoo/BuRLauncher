@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.OPCAutomation">
       <HintPath>..\..\..\..\..\Downloads\MyOPCClient_v6\MyOPCClient_v6\obj\x86\Debug\Interop.OPCAutomation.dll</HintPath>
